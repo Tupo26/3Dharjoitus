@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\käyttäjä\source\repos\rendausharj1\rendausharj1\main.cpp(305): warning C4101: 'det': unreferenced local variable
+c:\users\käyttäjä\source\repos\rendausharj1\rendausharj1\main.cpp(373): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\käyttäjä\source\repos\rendausharj1\rendausharj1\main.cpp(408): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\käyttäjä\source\repos\rendausharj1\rendausharj1\main.cpp(432): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RendausHarj1.vcxproj -> C:\Users\käyttäjä\source\repos\RendausHarj1\Debug\RendausHarj1.exe
